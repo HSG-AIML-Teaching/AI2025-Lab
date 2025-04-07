@@ -25,8 +25,8 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Date                    | Lab        |  Content                         |  CoLab                 |
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
 | Mon, Feb. 24           | **Lab 1**   | Intro / Python Recap I         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_01/lab_01.ipynb) |
-|            | **Lab 1**   | NumPy         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_01/lab_01_numpy.ipynb) |
-|           | **Lab 1**   | PyTorch         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_01/lab_01_pytorch.ipynb) |
+|            |    | NumPy         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_01/lab_01_numpy.ipynb) |
+|           |    | PyTorch         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_01/lab_01_pytorch.ipynb) |
 | Mon, Mar. 17            | **Lab 2**   | Search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_02/lab_02.ipynb) |
 | Mon, Apr. 21            | **Lab 3**   | Naive Bayes    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_03/lab_03a.ipynb) |
 |             |    |  KNN     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_03/lab_03b.ipynb) |
