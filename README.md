@@ -30,12 +30,8 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Mon, Mar. 17            | **Lab 2**   | Search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_02/lab_02.ipynb) |
 | Mon, Apr. 21            | **Lab 3**   | Naive Bayes    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_03/lab_03a.ipynb) |
 |             |    |  KNN     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_03/lab_03b.ipynb) |
-<!-- | Mon, Mar. 04            | **Lab 2**   | PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_02/lab_02_pytorch.ipynb) |
-| Mon, Mar. 18            | **Lab 3**   | Search    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_03/lab_03.ipynb) |
-| Mon, Apr. 22            | **Lab 4**   | Naive Bayes    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_04/lab_04a.ipynb) |
-|             |    |  KNN     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_04/lab_04b.ipynb) |
-| Mon, May 06            | **Lab 5**   | Neural Networks     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_05/lab_05.ipynb) |
-| Mon, May 20            | **Lab 6**   | CNN    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_06/ml_colab_06.ipynb)| -->
+| Mon, May 05            | **Lab 4**   | Neural Networks     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2025-Lab/blob/main/lab_04/lab_04.ipynb) |
+<!-- | Mon, May 20            | **Lab 6**   | CNN    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_06/ml_colab_06.ipynb)| --> -->
 
 ## Running the Course Code Lab Notebooks using Google Colab Environment ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAAA/blob/main))
 
